@@ -1,0 +1,8 @@
+const heading = document.querySelector('h1')
+console.log(heading)
+const listItems = document.querySelectorAll('p')
+console.log(listItems)
+const divTest = document.querySelector('.test')
+console.log(divTest)
+const pFromDiv = divTest.querySelector('#test')
+console.log(pFromDiv)
